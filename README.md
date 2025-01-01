@@ -4,7 +4,10 @@
 # AI 인플루언서
 * StyleGAN2 모델을 활용한 가상의 얼굴 생성 (22.06.15-22.06.30)
 
-![result_2](https://github.com/user-attachments/assets/b4aff0a3-f832-4f55-8eae-86f4c36260b8)
+![timelapse](https://github.com/user-attachments/assets/5bdb5f8a-5f36-4ef7-9d18-660eb853ae0b)
+
+
+![result_2](https://github.com/user-attachments/assets/b4aff0a3-f832-4f55-8eae-86f4c36260b8)  
 
 * StyleHUMAN 모델을 활용한 가상의 전신 생성 (22.07.04-22.08.05)
 
