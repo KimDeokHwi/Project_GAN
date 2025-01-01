@@ -7,7 +7,7 @@
 ![timelapse](https://github.com/user-attachments/assets/5bdb5f8a-5f36-4ef7-9d18-660eb853ae0b)
 
 
-![result_2](https://github.com/user-attachments/assets/b4aff0a3-f832-4f55-8eae-86f4c36260b8)  
+![timelapse_movie_0 1_2_](https://github.com/user-attachments/assets/bb5398ee-03c6-4df1-b08d-4bc25cb406d7) ![timelapse_movie_0 5_2_](https://github.com/user-attachments/assets/68df429c-7851-4ad1-9c7d-852d15fd61df) ![timelapse_movie_0 9](https://github.com/user-attachments/assets/bb8bd24e-59d2-4027-9e19-63ce4f2fd868)
 
 * StyleHUMAN 모델을 활용한 가상의 전신 생성 (22.07.04-22.08.05)
 
