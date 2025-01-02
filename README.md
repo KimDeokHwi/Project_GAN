@@ -4,10 +4,29 @@
 # AI 인플루언서
 * StyleGAN2 모델을 활용한 가상의 얼굴 생성 (22.06.15-22.06.30)
 
-![timelapse](https://github.com/user-attachments/assets/5bdb5f8a-5f36-4ef7-9d18-660eb853ae0b)
+<div align="center">
+  
+
+❗Training process
+
+<img src="https://github.com/user-attachments/assets/5bdb5f8a-5f36-4ef7-9d18-660eb853ae0b" width="610" height="400"/>
+</div>
 
 
-![timelapse_movie_0 1_2_](https://github.com/user-attachments/assets/bb5398ee-03c6-4df1-b08d-4bc25cb406d7) ![timelapse_movie_0 5_2_](https://github.com/user-attachments/assets/68df429c-7851-4ad1-9c7d-852d15fd61df) ![timelapse_movie_0 9](https://github.com/user-attachments/assets/bb8bd24e-59d2-4027-9e19-63ce4f2fd868)
+<div align="center">
+❗Generation faces
+
+<img src="https://github.com/user-attachments/assets/bb5398ee-03c6-4df1-b08d-4bc25cb406d7" width="200" height="200"/> <img src="https://github.com/user-attachments/assets/68df429c-7851-4ad1-9c7d-852d15fd61df" width="200" height="200"/> <img src="https://github.com/user-attachments/assets/bb8bd24e-59d2-4027-9e19-63ce4f2fd868" width="200" height="200"/>
+</div>
+
+
+<div align="center">
+  
+❗Style mixing
+
+<img src="https://github.com/user-attachments/assets/964fc274-3fa1-4352-998f-b4c0ac9bd1f9" width="610" height="610"/>
+</div>
+
 
 * StyleHUMAN 모델을 활용한 가상의 전신 생성 (22.07.04-22.08.05)
 
