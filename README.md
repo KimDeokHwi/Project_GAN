@@ -30,7 +30,7 @@
 
 * StyleHUMAN 모델을 활용한 가상의 전신 생성 (22.07.04-22.08.05)
 
-![0 7 png_random_0229 png](https://github.com/user-attachments/assets/bc591093-f602-4e6a-a96f-4b383484545a)
+<img src="https://github.com/user-attachments/assets/bc591093-f602-4e6a-a96f-4b383484545a" width="256" height="512"/>
 
 ----------------------------
 
