@@ -12,6 +12,7 @@
 <img src="https://github.com/user-attachments/assets/5bdb5f8a-5f36-4ef7-9d18-660eb853ae0b" width="610" height="400"/>
 </div>
 
+<br>
 
 <div align="center">
 ❗Generation faces
@@ -19,6 +20,7 @@
 <img src="https://github.com/user-attachments/assets/bb5398ee-03c6-4df1-b08d-4bc25cb406d7" width="200" height="200"/> <img src="https://github.com/user-attachments/assets/68df429c-7851-4ad1-9c7d-852d15fd61df" width="200" height="200"/> <img src="https://github.com/user-attachments/assets/bb8bd24e-59d2-4027-9e19-63ce4f2fd868" width="200" height="200"/>
 </div>
 
+<br>
 
 <div align="center">
   
@@ -28,9 +30,20 @@
 </div>
 
 
+<br>
+
+--------------------------  
+
 * StyleHUMAN 모델을 활용한 가상의 전신 생성 (22.07.04-22.08.05)
 
-<img src="https://github.com/user-attachments/assets/bc591093-f602-4e6a-a96f-4b383484545a" width="256" height="512"/>
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/bc591093-f602-4e6a-a96f-4b383484545a" width="128" height="256"/>
+<img src="https://github.com/user-attachments/assets/d76ee58d-968a-432a-9200-1f52f1d99719" width="128" height="256"/>
+<img src="https://github.com/user-attachments/assets/4a0995f0-5f39-4133-9cd7-cabcc8e0f3dc" width="128" height="256"/>
+<img src="https://github.com/user-attachments/assets/1f98f8aa-75ac-40ae-a734-57f5aae6d5c9" width="128" height="256"/>
+
+</div>
 
 ----------------------------
 
